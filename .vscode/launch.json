@@ -15,7 +15,8 @@
             "name": "BoardTarefaApplication",
             "request": "launch",
             "mainClass": "web.dio.lab.board_tarefa.BoardTarefaApplication",
-            "projectName": "board-tarefa"
+            "projectName": "board-tarefa",
+            "args": "--spring.profiles.active=dev"
         }
     ]
 }
